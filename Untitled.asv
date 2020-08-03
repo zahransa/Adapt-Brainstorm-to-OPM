@@ -1,7 +1,0 @@
-for i=3:3:306
-n(i)=mag.Channel(:,i);
-end
-t=n;
-for i=1:2:204
-t(i)=[];
-end
